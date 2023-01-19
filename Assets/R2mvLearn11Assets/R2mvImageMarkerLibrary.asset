@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: R2mvImageMarkerLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5108530082872330792
+  m_GuidHigh: 2354065698481683594
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4665357547659768600
+      m_GuidHigh: 2957237138626974859
+    m_SerializedTextureGuid:
+      m_GuidLow: 856816618321020856
+      m_GuidHigh: 5839377476088920920
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ImageMarkerOne
+    m_Texture: {fileID: 2800000, guid: bcad07b8062c0be4587bb24be0a20951, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5562537422491446093
+      m_GuidHigh: 15832782171246938546
+    m_SerializedTextureGuid:
+      m_GuidLow: 14255132770869504951
+      m_GuidHigh: 1287318950508837529
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ImageMarkerTwo
+    m_Texture: {fileID: 2800000, guid: 69b4ebb767bac5d4993ab5d5c379dd11, type: 3}
